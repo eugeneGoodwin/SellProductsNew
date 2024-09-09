@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SellProductsNew</string>
+    <string name="alert_exit_app_confirm">Confirm</string>
+    <string name="alert_exit_app_deny">Deny</string>
+    <string name="alert_exit_app_bye_message">By!!!</string>
+
+    <string name="welcome_title">Welcome to Sell Products</string>
+    <string name="welcome_description">Log in or register in App</string>
+
+    <string name="login_header">Login</string>
+    <string name="login_header_description">SELL PRODUCTS</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_forgot_password">Forgot password?</string>
+    <string name="login_hint_phone_email_username">Phone number, email or username</string>
+    <string name="login_hint_name">Name</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_field_password">Password</string>
+    <string name="login_field_user_name">User name</string>
+
+    <string name="enroll_header">Registration</string>
+    <string name="enroll_register">Register</string>
+    <string name="enroll_register_name">Name</string>
+    <string name="enroll_register_email">Email</string>
+    <string name="enroll_register_password">Password</string>
+    <string name="enroll_register_confirm_password">Confirm Password</string>
+    <string name="enroll_register_confirm_no_match">"The Confirm Password field does not match the password field"</string>
+
+    <string name="catalog_header">Catalog</string>
+    <string name="orders_header">Orders</string>
+    <string name="cart_header">Cart</string>
+    <string name="cart_button">CHECKOUT</string>
+    <string name="add_to_cart_button">ADD TO CART</string>
+    <string name="cart_total_price">Total Price:</string>
+
+    <string name="page_load">Loading...</string>
+    <string name="page_wait">Wait please</string>
+    <string name="page_loading">Loading.. Please wait..</string>
+
+    <string name="validate_empty_field">The field %s must have a value</string>
+    <string name="validate_no_format_field">The field %s is not correct format</string>
+    <string name="validate_used_field">The field %s already in use</string>
+    <string name="validate_range_field">The field %s has an invalid value</string>
+    <string name="validate_email">Field email not valid.</string>
+    <string name="validate_repeat_password_no_match">Field Confirm Password no match with Field Password</string>
+    <string name="validate_data_used">Entered data is already in use</string>
+    <string name="validate_data_incorrect">Entered data is not correct</string>
+
+    <string name="validate_min_symbols">at least 6 characters</string>
+    <string name="validate_big_letters">capital letters</string>
+    <string name="validate_small_letters">lowercase letters</string>
+    <string name="validate_digits">digit</string>
+</resources>
